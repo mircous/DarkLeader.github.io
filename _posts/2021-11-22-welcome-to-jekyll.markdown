@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "#test!"
-title:  "test2!"
 date:   2021-11-22 18:04:50 +0400
 categories: jekyll update
 ---
